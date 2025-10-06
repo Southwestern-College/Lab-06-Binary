@@ -1,4 +1,4 @@
-# Project: Binary
+# Lab: Binary
 
 ## OBJECTIVES  
 - Compose a method that converts a decimal number to binary.  
