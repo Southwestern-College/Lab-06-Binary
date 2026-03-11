@@ -59,12 +59,15 @@ Binary: 11010
 ```
 
 ## CODING STANDARDS
-- Adhere to Java naming conventions for identifiers.
-
-- Remove any auto-generated comments.
-
-- Use JavaDoc to document your code.
-
-- Attribute yourself as the author using the `@author` tag.
-
-- Ensure the output is user-friendly, easy to read, and understandable.
+- Follow the program specifications exactly.
+- Use meaningful identifiers and follow Java naming conventions.
+- Remove all auto-generated comments and unused code.
+- Document code using [JavaDoc](https://www.baeldung.com/javadoc), including:
+   - Program/class description
+   - Attribution using the `@author` tag.
+- Comment only when necessary.
+- Format code cleanly and consistently
+   - Proper indentation
+   - Brace alignment
+   - Whitespace for readability
+- Ensure prompts and output are clear and properly formatted.
