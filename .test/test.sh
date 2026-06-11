@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-JUNIT_JAR=".test/junit-platform-console-standalone-1.13.0-M3.jar"
+JUNIT_JAR=".test/junit-platform-console-standalone-6.0.3.jar"
 
 #Remove class files
 rm -f ./*.class ./.test/*.class
