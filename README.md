@@ -6,8 +6,11 @@
 ## Program Description
 Lorem ipsum.
 
+## Instructions
+1. Instruction
+
 ## Program Specifications
-1. Specification
+- Specification
 
 ## Sample Code
 ```java
