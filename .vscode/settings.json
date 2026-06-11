@@ -10,10 +10,10 @@
   "files.exclude": {
     "**/.assets": true,
     "**/.devcontainer": true,
-    "**/.test": true,
-    "**/.vscode": true,
     "**/.github": true,
-    "**/.gitignore": true
+    "**/.gitignore": true,
+    "**/.test": true,
+    "**/.vscode": true
   },
 
   "git.autofetch": true,
