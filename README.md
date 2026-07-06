@@ -1,4 +1,4 @@
-# Lab: Binary
+# Lab 06: Binary
 
 ## OBJECTIVES  
 - Compose a method that converts a decimal number to binary.  
